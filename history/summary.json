@@ -4,19 +4,19 @@
     "url": "https://wiktor.thedev.id",
     "icon": "https://favicons.githubusercontent.com/wiktor.thedev.id",
     "slug": "apps-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 181,
-    "timeDay": 156,
-    "timeWeek": 200,
-    "timeMonth": 218,
-    "timeYear": 181,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "96.16%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.98%",
+    "time": 180,
+    "timeDay": 148,
+    "timeWeek": 193,
+    "timeMonth": 216,
+    "timeYear": 180,
     "dailyMinutesDown": {
-      "2021-06-08": 0
+      "2021-06-08": 55
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://wiktor.thedev.id/HarmonyVersion.txt",
     "icon": "https://favicons.githubusercontent.com/wiktor.thedev.id",
     "slug": "harmony-update",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "96.16%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.98%",
     "time": 32,
-    "timeDay": 48,
+    "timeDay": 58,
     "timeWeek": 71,
-    "timeMonth": 49,
+    "timeMonth": 50,
     "timeYear": 32,
     "dailyMinutesDown": {
-      "2021-06-08": 0
+      "2021-06-08": 55
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://wiktor.thedev.id/ClockVersion.txt",
     "icon": "https://favicons.githubusercontent.com/wiktor.thedev.id",
     "slug": "clock-update",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "96.17%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.98%",
     "time": 30,
-    "timeDay": 42,
-    "timeWeek": 47,
-    "timeMonth": 43,
+    "timeDay": 54,
+    "timeWeek": 50,
+    "timeMonth": 44,
     "timeYear": 30,
     "dailyMinutesDown": {
-      "2021-06-08": 0
+      "2021-06-08": 55
     }
   }
 ]

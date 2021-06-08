@@ -4,53 +4,59 @@
     "url": "https://wiktor.thedev.id",
     "icon": "https://favicons.githubusercontent.com/wiktor.thedev.id",
     "slug": "apps-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 181,
-    "timeDay": 238,
-    "timeWeek": 218,
-    "timeMonth": 223,
+    "timeDay": 156,
+    "timeWeek": 200,
+    "timeMonth": 218,
     "timeYear": 181,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "Harmony update",
     "url": "https://wiktor.thedev.id/HarmonyVersion.txt",
     "icon": "https://favicons.githubusercontent.com/wiktor.thedev.id",
     "slug": "harmony-update",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 32,
-    "timeDay": 91,
-    "timeWeek": 80,
-    "timeMonth": 50,
+    "timeDay": 48,
+    "timeWeek": 71,
+    "timeMonth": 49,
     "timeYear": 32,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "Clock update",
     "url": "https://wiktor.thedev.id/ClockVersion.txt",
     "icon": "https://favicons.githubusercontent.com/wiktor.thedev.id",
     "slug": "clock-update",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 30,
-    "timeDay": 79,
-    "timeWeek": 53,
-    "timeMonth": 44,
+    "timeDay": 42,
+    "timeWeek": 47,
+    "timeMonth": 43,
     "timeYear": 30,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   }
 ]

@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 65,
-    "timeWeek": 176,
-    "timeMonth": 178,
-    "timeYear": 188,
+    "timeDay": 287,
+    "timeWeek": 187,
+    "timeMonth": 184,
+    "timeYear": 177,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiktor.thedev.id.ico",
     "slug": "harmony-update",
     "status": "down",
-    "uptime": "77.61%",
+    "uptime": "77.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 36,
-    "timeDay": 5,
-    "timeWeek": 29,
-    "timeMonth": 39,
-    "timeYear": 34,
+    "time": 37,
+    "timeDay": 129,
+    "timeWeek": 32,
+    "timeMonth": 43,
+    "timeYear": 35,
     "dailyMinutesDown": {
-      "2025-07-24": 50,
+      "2025-07-25": 49,
+      "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -397,8 +398,7 @@
       "2024-07-29": 1440,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
-      "2024-07-26": 1440,
-      "2024-07-25": 1440
+      "2024-07-26": 1440
     }
   },
   {
@@ -407,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiktor.thedev.id.ico",
     "slug": "clock-update",
     "status": "down",
-    "uptime": "77.61%",
+    "uptime": "77.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 36,
-    "timeDay": 4,
-    "timeWeek": 22,
-    "timeMonth": 41,
-    "timeYear": 33,
+    "timeDay": 121,
+    "timeWeek": 29,
+    "timeMonth": 44,
+    "timeYear": 34,
     "dailyMinutesDown": {
-      "2025-07-24": 50,
+      "2025-07-25": 50,
+      "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -781,8 +782,7 @@
       "2024-07-29": 1440,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
-      "2024-07-26": 1440,
-      "2024-07-25": 1440
+      "2024-07-26": 1440
     }
   }
 ]

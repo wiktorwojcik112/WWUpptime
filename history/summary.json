@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 182,
-    "timeDay": 95,
-    "timeWeek": 193,
-    "timeMonth": 185,
+    "time": 181,
+    "timeDay": 73,
+    "timeWeek": 167,
+    "timeMonth": 183,
     "timeYear": 182,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiktor.thedev.id.ico",
     "slug": "harmony-update",
     "status": "down",
-    "uptime": "75.48%",
+    "uptime": "75.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 36,
-    "timeDay": 19,
-    "timeWeek": 22,
+    "timeDay": 4,
+    "timeWeek": 17,
     "timeMonth": 32,
     "timeYear": 35,
     "dailyMinutesDown": {
-      "2025-09-09": 41,
+      "2025-09-10": 40,
+      "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
@@ -397,8 +398,7 @@
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
-      "2024-09-11": 1440,
-      "2024-09-10": 1440
+      "2024-09-11": 1440
     }
   },
   {
@@ -407,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiktor.thedev.id.ico",
     "slug": "clock-update",
     "status": "down",
-    "uptime": "75.48%",
+    "uptime": "75.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 36,
-    "timeDay": 14,
-    "timeWeek": 22,
+    "timeDay": 5,
+    "timeWeek": 17,
     "timeMonth": 33,
     "timeYear": 34,
     "dailyMinutesDown": {
-      "2025-09-09": 41,
+      "2025-09-10": 40,
+      "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
@@ -781,8 +782,7 @@
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
-      "2024-09-11": 1440,
-      "2024-09-10": 1440
+      "2024-09-11": 1440
     }
   }
 ]

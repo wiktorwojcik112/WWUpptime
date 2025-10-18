@@ -10,6 +10,8 @@ sites:
     url: https://extiri.com
   - name: Word of Day API
     url: https://wiktorwojcik.eu.pythonanywhere.com/word-of-day
+    expectedStatusCodes:
+      - 405
   - name: Extiri API
     url: https://extiri.com/api/1/snippets
 

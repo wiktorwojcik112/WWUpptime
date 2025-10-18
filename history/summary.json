@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiktorwojcik.eu.pythonanywhere.com.ico",
     "slug": "word-of-day-api",
     "status": "up",
-    "uptime": "1.94%",
-    "uptimeDay": "1.94%",
-    "uptimeWeek": "1.94%",
-    "uptimeMonth": "1.94%",
-    "uptimeYear": "1.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 463,
     "timeDay": 463,
     "timeWeek": 463,
     "timeMonth": 463,
     "timeYear": 463,
-    "dailyMinutesDown": {
-      "2025-10-18": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Extiri API",

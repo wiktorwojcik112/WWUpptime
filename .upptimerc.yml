@@ -4,12 +4,14 @@ repo: WWUpptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Apps site
+  - name: Personal page
     url: https://wiktor.thedev.id
-  - name: Harmony update
-    url: https://wiktor.thedev.id/HarmonyVersion.txt
-  - name: Clock update
-    url: https://wiktor.thedev.id/ClockVersion.txt
+  - name: Extiri
+    url: https://extiri.com
+  - name: Word of Day API
+    url: https://wiktorwojcik.eu.pythonanywhere.com/word-of-day
+  - name: Extiri API
+    url: https://extiri.com/api/1/snippets
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

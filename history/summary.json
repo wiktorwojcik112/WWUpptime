@@ -22,18 +22,20 @@
     "url": "https://extiri.com",
     "icon": "https://icons.duckduckgo.com/ip3/extiri.com.ico",
     "slug": "extiri",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 688,
-    "timeDay": 582,
-    "timeWeek": 693,
-    "timeMonth": 688,
-    "timeYear": 688,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1883,
+    "timeDay": 10191,
+    "timeWeek": 3081,
+    "timeMonth": 1883,
+    "timeYear": 1883,
+    "dailyMinutesDown": {
+      "2025-10-31": 1
+    }
   },
   {
     "name": "Word of Day API",
@@ -58,17 +60,19 @@
     "url": "https://extiri.com/api/1/snippets",
     "icon": "https://icons.duckduckgo.com/ip3/extiri.com.ico",
     "slug": "extiri-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 141,
-    "timeDay": 120,
-    "timeWeek": 135,
-    "timeMonth": 141,
-    "timeYear": 141,
-    "dailyMinutesDown": {}
+    "time": 1341,
+    "timeDay": 9735,
+    "timeWeek": 2537,
+    "timeMonth": 1341,
+    "timeYear": 1341,
+    "dailyMinutesDown": {
+      "2025-10-31": 0
+    }
   }
 ]

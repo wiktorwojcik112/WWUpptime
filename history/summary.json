@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 198,
-    "timeDay": 131,
-    "timeWeek": 207,
-    "timeMonth": 198,
-    "timeYear": 198,
+    "time": 202,
+    "timeDay": 253,
+    "timeWeek": 216,
+    "timeMonth": 202,
+    "timeYear": 202,
     "dailyMinutesDown": {}
   },
   {
@@ -22,20 +22,18 @@
     "url": "https://extiri.com",
     "icon": "https://icons.duckduckgo.com/ip3/extiri.com.ico",
     "slug": "extiri",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 1883,
-    "timeDay": 10191,
-    "timeWeek": 3081,
-    "timeMonth": 1883,
-    "timeYear": 1883,
-    "dailyMinutesDown": {
-      "2025-10-31": 12
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2508,
+    "timeDay": 11608,
+    "timeWeek": 4332,
+    "timeMonth": 2508,
+    "timeYear": 2508,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Word of Day API",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 474,
-    "timeDay": 422,
-    "timeWeek": 478,
-    "timeMonth": 474,
-    "timeYear": 474,
+    "time": 477,
+    "timeDay": 516,
+    "timeWeek": 483,
+    "timeMonth": 477,
+    "timeYear": 477,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/extiri.com.ico",
     "slug": "extiri-api",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 1271,
-    "timeDay": 6539,
-    "timeWeek": 2271,
-    "timeMonth": 1271,
-    "timeYear": 1271,
-    "dailyMinutesDown": {
-      "2025-10-31": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1210,
+    "timeDay": 6557,
+    "timeWeek": 2275,
+    "timeMonth": 1210,
+    "timeYear": 1210,
+    "dailyMinutesDown": {}
   }
 ]

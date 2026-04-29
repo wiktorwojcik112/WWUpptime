@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 99,
-    "timeWeek": 193,
-    "timeMonth": 199,
+    "timeDay": 212,
+    "timeWeek": 195,
+    "timeMonth": 198,
     "timeYear": 197,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/extiri.com.ico",
     "slug": "extiri",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.69%",
+    "uptimeDay": "39.47%",
+    "uptimeWeek": "91.35%",
+    "uptimeMonth": "98.01%",
+    "uptimeYear": "99.69%",
     "time": 882,
-    "timeDay": 571,
-    "timeWeek": 684,
-    "timeMonth": 660,
+    "timeDay": 0,
+    "timeWeek": 667,
+    "timeMonth": 664,
     "timeYear": 882,
     "dailyMinutesDown": {
-      "2026-04-28": 0
+      "2026-04-29": 106,
+      "2026-04-28": 766
     }
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 483,
-    "timeDay": 497,
-    "timeWeek": 488,
-    "timeMonth": 484,
-    "timeYear": 483,
+    "time": 484,
+    "timeDay": 524,
+    "timeWeek": 480,
+    "timeMonth": 488,
+    "timeYear": 484,
     "dailyMinutesDown": {
       "2026-03-24": 56,
       "2026-01-04": 332
@@ -64,18 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/extiri.com.ico",
     "slug": "extiri-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.69%",
+    "uptimeDay": "39.47%",
+    "uptimeWeek": "91.35%",
+    "uptimeMonth": "98.01%",
+    "uptimeYear": "99.69%",
     "time": 329,
-    "timeDay": 187,
-    "timeWeek": 239,
-    "timeMonth": 233,
+    "timeDay": 0,
+    "timeWeek": 229,
+    "timeMonth": 234,
     "timeYear": 329,
     "dailyMinutesDown": {
-      "2026-04-28": 0
+      "2026-04-29": 106,
+      "2026-04-28": 766
     }
   }
 ]

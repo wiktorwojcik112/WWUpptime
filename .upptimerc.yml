@@ -19,10 +19,11 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /WWUpptime
-  logoUrl: https://wiktor.thedev.id/Images/profile.png
-  name: WWUpptime
+  cname: status.extiri.com
+  logoUrl: https://extiri.com/images/logo.webp
+  name: Extiri Status
   introTitle: "Status page"
-  introMessage: This page is showing status of my services and site. It is powered by [Upptime](https://github.com/upptime/upptime). 
+  introMessage: This page shows the status of Extiri services. It is powered by [Upptime](https://github.com/upptime/upptime). 
   navbar:
     - title: Status
       href: /

@@ -18,7 +18,8 @@ sites:
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /WWUpptime
+  baseUrl: /
+  favicon: https://extiri.com/images/logo.png
   cname: status.extiri.com
   logoUrl: https://extiri.com/images/logo.webp
   name: Extiri Status

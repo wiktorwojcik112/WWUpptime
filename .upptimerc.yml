@@ -4,8 +4,6 @@ repo: WWUpptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Personal page
-    url: https://wiktor.thedev.id
   - name: Extiri
     url: https://extiri.com
   - name: Word of Day API
@@ -14,6 +12,12 @@ sites:
       - 405
   - name: Extiri API
     url: https://extiri.com/api/1/snippets
+  - name: Extiri Games
+    url: https://games.extiri.com
+  - name: Snippex by Extiri
+    url: https://web.extiri.com
+  - name: Dashbrand by Extiri
+    url: https://dashbrand.extiri.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -30,7 +34,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  customCss: |
+  css: |
     /* Import Extiri Fonts */
     @import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=JetBrains+Mono:wght@400;500;600;700&display=swap');
 

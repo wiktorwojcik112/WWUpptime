@@ -30,6 +30,74 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  customCss: |
+    /* Import Extiri Fonts */
+    @import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=JetBrains+Mono:wght@400;500;600;700&display=swap');
+
+    /* Base Body & Typography */
+    body {
+      background-color: #050505 !important;
+      color: #ffffff !important;
+      font-family: 'JetBrains Mono', monospace !important;
+    }
+    
+    h1, h2, h3, h4, h5, h6 {
+      font-family: 'Instrument Serif', serif !important;
+      font-weight: 400 !important;
+      color: #ffffff !important;
+    }
+
+    /* Navbar & Footer Styling */
+    nav, footer {
+      background-color: rgba(5, 5, 5, 0.8) !important;
+      backdrop-filter: blur(20px) !important;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08) !important;
+    }
+    
+    footer {
+      border-top: 1px solid rgba(255, 255, 255, 0.08) !important;
+      border-bottom: none !important;
+    }
+
+    /* Cards & Surface Areas (Overriding Upptime's default boxes) */
+    div[class*="bg-white"], div[class*="bg-gray-800"] {
+      background-color: #101010 !important;
+      border: 1px solid rgba(255, 255, 255, 0.08) !important;
+      border-radius: 16px !important;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1) !important;
+      transition: all 0.3s ease !important;
+    }
+    
+    div[class*="bg-white"]:hover, div[class*="bg-gray-800"]:hover {
+      border-color: rgba(255, 255, 255, 0.2) !important;
+      transform: translateY(-2px) !important;
+    }
+
+    /* Brand Primary Accent (Links & Highlights) */
+    a, .text-blue-500, .text-green-500 {
+      color: #eb7259 !important;
+      transition: color 0.15s ease !important;
+    }
+    
+    a:hover {
+      color: #ee8b3e !important;
+    }
+
+    button, .btn {
+      background: linear-gradient(135deg, #eb7259 0%, #ee8b3e 50%, #f0a242 100%) !important;
+      color: #000000 !important;
+      border-radius: 8px !important;
+      font-family: 'JetBrains Mono', monospace !important;
+      font-weight: 600 !important;
+      border: none !important;
+    }
+
+    rect.fill-current.text-green-500 {
+      fill: #214A3C !important;
+    }
+    rect.fill-current.text-red-500 {
+      fill: #eb7259 !important;
+    }
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
